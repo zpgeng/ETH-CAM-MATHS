@@ -10,7 +10,7 @@ This is a personal repository for mathematics and physics pre-learners or post-l
 
 As for German version for English learners, I would say that if you really love to learn maths at a higher level, German will certainly not be a problem. Instead, you will find more insights and Eurekas while learning maths in German textbooks and lecture notes. 
 
-**REMINDER: These lecture notes are only for academic use and must not be used for commercial. 请注意本repo的内容仅供学术和个人参考，任何形式的商用均属非法且应被严格禁止。**
+**REMINDER: These lecture notes are for academic and personal reference only. Any form of commercial use is illegal and should be strictly prohibited. 请注意本repo的内容仅供学术和个人参考，任何形式的商用均属非法且应被严格禁止。**
 
 Feel free to star and fork this repo!
 
