@@ -38,8 +38,8 @@ Feel free to star and fork this repo!
 
 ## Differential equations
 
-* [CAM Mathematical Methods (Dr. David Skinner) in English](/Differential%20Equations/CAM_MATH_METHODS.pdf )
-* [CAM_ODE (Prof. M. G. Worster, Notes taken by D. Chua) in English](/Differential%20Equations/CAM_ordinary_differential_equations.pdf)
+* [CAM Mathematical Methods [PDE] (Dr. David Skinner) in English](/Differential%20Equations/CAM_MATH_METHODS.pdf )
+* [CAM Ordinary Differential Equation (Prof. M. G. Worster, Notes taken by D. Chua) in English](/Differential%20Equations/CAM_ordinary_differential_equations.pdf)
 * [CAM Integrable Systems (Dr. A. Ashton, Notes taken by D. Chua) in English](/Differential%20Equations/integrable_systems.pdf)
 * [CAM Variational Principles (Prof. P.K. Townsend, Notes taken by D. Chua) in English](/Differential%20Equations/variational_principles.pdf)
 
